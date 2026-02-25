@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.jnsnproductions.com)"
+      "WebFetch(domain:www.jnsnproductions.com)",
+      "Bash(python:*)",
+      "Bash(convert:*)",
+      "Bash(cwebp:*)",
+      "Bash(curl:*)"
     ]
   }
 }
